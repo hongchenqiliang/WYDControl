@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WYDControl_Example' do
+  pod 'WYDControl', :path => '../'
+
+  target 'WYDControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
