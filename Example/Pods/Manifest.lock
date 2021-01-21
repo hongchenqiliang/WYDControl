@@ -1,0 +1,16 @@
+PODS:
+  - WYDControl (0.0.1)
+
+DEPENDENCIES:
+  - WYDControl (from `../`)
+
+EXTERNAL SOURCES:
+  WYDControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WYDControl: 35002b4aa787646d65d803120cbde42947ed30c7
+
+PODFILE CHECKSUM: 51f24321e776c25161e4fbb203400b9eec351fdf
+
+COCOAPODS: 1.10.0.rc.1

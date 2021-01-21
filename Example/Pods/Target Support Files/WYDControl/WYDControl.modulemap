@@ -1,0 +1,6 @@
+framework module WYDControl {
+  umbrella header "WYDControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
