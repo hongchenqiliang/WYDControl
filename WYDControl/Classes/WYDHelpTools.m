@@ -11,4 +11,7 @@
 +(void)sayHello{
     NSLog(@"你好");
 }
++(void)helloWorld{
+    NSLog(@"helloWorld");
+}
 @end
