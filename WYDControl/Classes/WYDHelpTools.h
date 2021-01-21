@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface WYDHelpTools : NSObject
 +(void)sayHello;
 +(void)helloWorld;
++(void)hello;
 @end
 
 NS_ASSUME_NONNULL_END
